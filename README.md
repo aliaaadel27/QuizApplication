@@ -1,2 +1,5 @@
 # QuizApplication
-A banking application with features like account creation, transactions, and balance inquiry.
+A Java Quiz App
+using 'Swing' for the GUI, implementing question
+handling, scoring system, and intuitive user
+interface design.
